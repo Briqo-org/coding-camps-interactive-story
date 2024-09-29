@@ -49,7 +49,7 @@ The **Interactive Story Game** is a text-based adventure where players navigate 
 1. Open your terminal or command prompt.
 2. Navigate to the directory where the `interactive_story_game.py` file is located.
     ```bash
-    cd path/to/interactive-story-game
+    cd path/to/coding-camps-interactive-story
     ```
 3. Run the Python script.
     ```bash
