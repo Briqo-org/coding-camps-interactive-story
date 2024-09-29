@@ -23,11 +23,11 @@ To run the game, you'll need to have Python installed on your computer. You can 
 
 1. Clone the repository to your local machine using Git or download the ZIP file.
     ```bash
-    git clone https://github.com/Briqo-org/interactive-story-game.git
+    git clone https://github.com/Briqo-org/coding-camps-interactive-story
     ```
 2. Navigate to the directory where the repository was cloned.
     ```bash
-    cd interactive-story-game
+    cd coding-camps-interactive-story
     ```
 3. Ensure you have Python installed by running the following command in your terminal or command prompt:
     ```bash
