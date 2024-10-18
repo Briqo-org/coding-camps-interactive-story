@@ -30,9 +30,14 @@ To run the game, you'll need to have Python installed on your computer. You can 
     cd coding-camps-interactive-story
     ```
 3. Ensure you have Python installed by running the following command in your terminal or command prompt:
-    ```bash
-    python --version
-    ```
+   - On macOS:
+     ```bash
+     python3 --version
+     ```
+   - On Windows:
+     ```bash
+     python --version
+     ```
 
 ## Game Overview
 
@@ -52,9 +57,15 @@ The **Interactive Story Game** is a text-based adventure where players navigate 
     cd path/to/coding-camps-interactive-story
     ```
 3. Run the Python script.
-    ```bash
-    python interactive_story_game.py
-    ```
+   - On macOS:
+     ```bash
+     python3 interactive_story_game.py
+     ```
+   - On Windows:
+     ```bash
+     python interactive_story_game.py
+     ```
+    
 4. Follow the on-screen instructions to play the game.
 
 ## How to Contribute
